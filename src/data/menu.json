@@ -1,0 +1,76 @@
+{
+  "menu": {
+    "pratos_principais": [
+      {
+        "id": 1,
+        "nome": "Feijoada",
+        "descricao": "Feijoada completa com feijão preto, carne de porco, linguiça, e acompanhamentos.",
+        "preco": 25.00,
+        "url": "https://exemplo.com/feijoada"
+      },
+      {
+        "id": 2,
+        "nome": "Moqueca de Peixe",
+        "descricao": "Moqueca de peixe fresco com leite de coco, dendê, e temperos brasileiros.",
+        "preco": 20.00,
+        "url": "https://exemplo.com/moqueca_de_peixe"
+      },
+      {
+        "id": 3,
+        "nome": "Picanha",
+        "descricao": "Picanha grelhada acompanhada de arroz, feijão tropeiro e farofa.",
+        "preco": 30.00,
+        "url": "https://exemplo.com/picanha"
+      },
+      {
+        "id": 4,
+        "nome": "Bobó de Camarão",
+        "descricao": "Bobó de camarão cremoso com mandioca e leite de coco.",
+        "preco": 28.00,
+        "url": "https://exemplo.com/bobo_de_camarao"
+      },
+      {
+        "id": 5,
+        "nome": "Carne de Sol",
+        "descricao": "Carne de sol assada na brasa acompanhada de mandioca cozida e manteiga de garrafa.",
+        "preco": 26.00,
+        "url": "https://exemplo.com/carne_de_sol"
+      },
+      {
+        "id": 6,
+        "nome": "Ensopado de Peixe",
+        "descricao": "Ensopado de peixe com vegetais frescos e temperos brasileiros.",
+        "preco": 22.00,
+        "url": "https://exemplo.com/ensopado_de_peixe"
+      },
+      {
+        "id": 7,
+        "nome": "Moqueca de Camarão",
+        "descricao": "Moqueca de camarão com leite de coco, dendê e pimentões coloridos.",
+        "preco": 32.00,
+        "url": "https://exemplo.com/moqueca_de_camarao"
+      },
+      {
+        "id": 8,
+        "nome": "Rabada",
+        "descricao": "Rabada cozida lentamente com mandioca, cenoura e temperos especiais.",
+        "preco": 24.00,
+        "url": "https://exemplo.com/rabada"
+      },
+      {
+        "id": 9,
+        "nome": "Feijão Tropeiro",
+        "descricao": "Feijão tropeiro com torresmo, linguiça, ovos e farinha de mandioca.",
+        "preco": 18.00,
+        "url": "https://exemplo.com/feijao_tropeiro"
+      },
+      {
+        "id": 10,
+        "nome": "Frango à Passarinho",
+        "descricao": "Pedacinhos de frango fritos com alho, limão e temperos especiais.",
+        "preco": 15.00,
+        "url": "https://exemplo.com/frango_a_passarinho"
+      }
+    ]
+  }
+}
