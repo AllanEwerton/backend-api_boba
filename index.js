@@ -2,6 +2,7 @@ const express = require('express');
 const server = express();
 const menu = require('./src/data/menu.json');
 const { validate } = require('jsonschema');
+const cors = require('cors'); // Importe o pacote cors
 
 const schema = {
     type: 'object',
@@ -29,6 +30,9 @@ const schema = {
     },
     required: ['menu']
 };
+
+// Use o middleware cors
+server.use(cors());
 
 server.get('/Menu', (req, res) => {
     try {
