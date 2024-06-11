@@ -4,72 +4,114 @@
       {
         "id": 1,
         "nome": "Feijoada",
-        "descricao": "Feijoada completa com feijão preto, carne de porco, linguiça, e acompanhamentos.",
+        "descricao": "A feijoada é um prato típico da culinária brasileira, originário da época colonial. Nossa versão é feita com feijão preto cozido lentamente, carnes de porco selecionadas, como costela, orelha, pé e rabo, além de linguiça calabresa, acompanhada de arroz branco soltinho, couve refogada, farofa crocante e laranja fatiada.",
         "preco": 25.00,
-        "url": "https://exemplo.com/feijoada"
+        "url": "https://media.istockphoto.com/id/1495675902/pt/foto/feijoada-typical-brazilian-food-traditional-brazilian-food-made-with-black-beans-top-view.jpg?s=612x612&w=0&k=20&c=UzLkxOQIRpLGvYFandinJREEh0hV-u-XA-TRIVHWAlM="
       },
       {
         "id": 2,
         "nome": "Moqueca de Peixe",
-        "descricao": "Moqueca de peixe fresco com leite de coco, dendê, e temperos brasileiros.",
+        "descricao": "Uma explosão de sabores da costa brasileira. Peixe fresco, como robalo ou dourado, cozido em um delicioso molho de tomate com leite de coco, pimentões, cebola, coentro, dendê e um toque de pimenta. Servido com arroz branco e farofa de dendê.",
         "preco": 20.00,
         "url": "https://exemplo.com/moqueca_de_peixe"
       },
       {
         "id": 3,
         "nome": "Picanha",
-        "descricao": "Picanha grelhada acompanhada de arroz, feijão tropeiro e farofa.",
+        "descricao": "A rainha dos churrascos brasileiros, nossa picanha é grelhada no ponto perfeito, suculenta por dentro e levemente crocante por fora. Acompanha um delicioso arroz branco soltinho, feijão tropeiro com bacon e farofa de ovos.",
         "preco": 30.00,
         "url": "https://exemplo.com/picanha"
       },
       {
         "id": 4,
         "nome": "Bobó de Camarão",
-        "descricao": "Bobó de camarão cremoso com mandioca e leite de coco.",
+        "descricao": "Uma explosão de sabores da Bahia em sua boca. Camarões frescos e suculentos cozidos em um creme de mandioca, leite de coco, dendê e temperos especiais. Acompanha arroz branco e farofa de banana.",
         "preco": 28.00,
         "url": "https://exemplo.com/bobo_de_camarao"
       },
       {
         "id": 5,
         "nome": "Carne de Sol",
-        "descricao": "Carne de sol assada na brasa acompanhada de mandioca cozida e manteiga de garrafa.",
+        "descricao": "A carne de sol é um clássico do sertão nordestino. Nossa versão é marinada com temperos especiais, assada lentamente na brasa e servida com mandioca cozida, manteiga de garrafa, vinagrete e farofa de cuscuz.",
         "preco": 26.00,
         "url": "https://exemplo.com/carne_de_sol"
       },
       {
         "id": 6,
         "nome": "Ensopado de Peixe",
-        "descricao": "Ensopado de peixe com vegetais frescos e temperos brasileiros.",
+        "descricao": "Uma combinação perfeita de peixes frescos, vegetais coloridos e temperos brasileiros. Cozido lentamente em um caldo rico e aromático, este ensopado é servido com arroz branco e pirão.",
         "preco": 22.00,
         "url": "https://exemplo.com/ensopado_de_peixe"
       },
       {
         "id": 7,
         "nome": "Moqueca de Camarão",
-        "descricao": "Moqueca de camarão com leite de coco, dendê e pimentões coloridos.",
+        "descricao": "Um prato de dar água na boca da costa brasileira. Camarões frescos, cozidos em um molho de tomate com leite de coco, pimentões, cebola, coentro, dendê e um toque de pimenta. Servido com arroz branco e pirão.",
         "preco": 32.00,
         "url": "https://exemplo.com/moqueca_de_camarao"
       },
       {
         "id": 8,
         "nome": "Rabada",
-        "descricao": "Rabada cozida lentamente com mandioca, cenoura e temperos especiais.",
+        "descricao": "Um prato reconfortante, perfeito para os dias mais frios. Nossa rabada é cozida lentamente em um caldo rico de carne, acompanhada de mandioca cozida, cenoura, batata, cebola e temperos especiais. Uma explosão de sabor em cada garfada.",
         "preco": 24.00,
         "url": "https://exemplo.com/rabada"
       },
       {
         "id": 9,
         "nome": "Feijão Tropeiro",
-        "descricao": "Feijão tropeiro com torresmo, linguiça, ovos e farinha de mandioca.",
+        "descricao": "Um clássico da culinária mineira. Feijão cozido com linguiça, bacon, ovos, torresmo e temperos especiais, misturado com farinha de mandioca e servido com couve refogada. Um prato que aquece o coração e satisfaz o paladar.",
         "preco": 18.00,
         "url": "https://exemplo.com/feijao_tropeiro"
       },
       {
         "id": 10,
         "nome": "Frango à Passarinho",
-        "descricao": "Pedacinhos de frango fritos com alho, limão e temperos especiais.",
+        "descricao": "Pequenos pedaços de frango marinados em alho, limão e temperos especiais, fritos até ficarem crocantes por fora e suculentos por dentro. Servidos com molho de pimenta, limão e uma porção generosa de farofa de banana.",
         "preco": 15.00,
         "url": "https://exemplo.com/frango_a_passarinho"
+      },
+      {
+        "id": 11,
+        "nome": "Ensopado de Carne",
+        "descricao": "Um prato de conforto que aquece a alma. Carnes macias, como acém ou músculo, cozidas lentamente em um caldo rico com vegetais frescos, resultando em uma explosão de sabor a cada garfada. Servido com arroz branco e pirão.",
+        "preco": 23.00,
+        "url": "https://exemplo.com/ensopado_de_carne"
+      },
+      {
+        "id": 12,
+        "nome": "Lasanha à Bolonhesa",
+        "descricao": "Uma clássica lasanha italiana com um toque brasileiro. Camadas generosas de massa fresca intercaladas com um molho bolonhesa rico e cremoso, queijo muçarela e parmesão gratinado no forno. Acompanha uma salada verde fresca.",
+        "preco": 22.00,
+        "url": "https://exemplo.com/lasanha_a_bolonhesa"
+      },
+      {
+        "id": 13,
+        "nome": "Peixe Assado",
+        "descricao": "Peixe fresco, temperado com limão, alho e ervas, assado lentamente no forno até ficar suculento e cheio de sabor. Acompanha batatas assadas e legumes grelhados, regados com azeite de oliva.",
+        "preco": 27.00,
+        "url": "https://exemplo.com/peixe_assado"
+      },
+      {
+        "id": 14,
+        "nome": "Frango Xadrez",
+        "descricao": "Frango macio e suculento cozido com pimentões, cebolas, cogumelos e molho agridoce. Uma explosão de sabores orientais servida com arroz branco soltinho.",
+        "preco": 18.00,
+        "url": "https://exemplo.com/frango_xadrez"
+      },
+      {
+        "id": 15,
+        "nome": "Costela de Porco Barbecue",
+        "descricao": "Costelas de porco suculentas e macias, marinadas em molho barbecue caseiro e assadas lentamente até caramelizarem. Acompanha batatas rústicas e salada de repolho com molho cremoso.",
+        "preco": 35.00,
+        "url": "https://exemplo.com/costela_de_porco_barbecue"
+      },
+      {
+        "id": 16,
+        "nome": "Espaguete à Carbonara",
+        "descricao": "Espaguete al dente misturado com bacon crocante, queijo parmesão, ovos e pimenta preta moída, resultando em um prato cremoso e reconfortante.",
+        "preco": 19.00,
+        "url": "https://exemplo.com/espaguete_a_carbonara"
       }
     ]
   }
